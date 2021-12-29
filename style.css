@@ -1,0 +1,42 @@
+body
+{
+  color: white;
+  background: purple;
+}
+
+.heading {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+span
+{
+  font-size: 30px;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+#view , #snapshot , #prediction {
+    font-size: 14px; color: #62b33a; 
+    padding: 6px; 
+    border-radius: 10px; 
+    background-color: white;
+}
+
+.hand_gesture{
+    font-size: 48px;
+}
+
+.hand_gesture_name {
+    font-size: 40px;
+}
+
+#result_gesture_name , #result_gesture_name2 {
+    color: black;
+}
